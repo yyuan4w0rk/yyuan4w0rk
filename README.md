@@ -1,1 +1,1 @@
-![yyuan4w0rk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyuan4w0rk&count_private=true&show_icons=true&bg_color=fff&icon_color=222&text_color=222&hide_rank=true&hide_title=true&hide=stars,commits,issues,contribs)
+![yyuan4w0rk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyuan4w0rk&count_private=true&show_icons=true&bg_color=C8B6E2&icon_color=495C83&text_color=495C83&hide_rank=true&hide_title=true&hide=stars,commits,issues,contribs)
